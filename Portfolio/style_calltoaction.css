@@ -1,0 +1,19 @@
+
+*{
+    margin: 0px;
+    padding: 0px;    
+    box-sizing: border-box;
+}
+
+html{
+    scroll-behavior: smooth;
+}
+
+.card{
+    background-color: rgb(255, 246, 246) !important;
+}
+
+body, p, ul, li{
+    font-family:'poppins', sans-serif;
+
+}
